@@ -1,3 +1,25 @@
-ok
+FRESNO STATE ARTIFICIAL INTELLIGENCE CSCI164 2016
+--BEE CHA--
+This program is a demonstration of how well an agent can perform
+in a game of Othello. It will try its best to win.
 
-test
+WHAT IS OTHELLO?
+Othello is a 8x8 grid board game. There are two players, Black and White.
+Each player take turns by placing their color pieces on the board.
+The player with the most pieces on the board wins the game.
+
+HOW TO RUN?
+There are two files, othello.py and main.py
+Place both files in the same directory
+Navigate to the directory in your console and type
+python main.py
+It will prompt you to select some options for Black player and White player.
+
+HOW TO PLAY?
+If playing as a human player, it will prompt you to enter your move.
+To move to coordinate (x,y), just type in xy
+So if you want to place your piece on coordinate (3,7)
+Just type
+37
+
+Good luck and have fun playing against the minimax and alphabeta agent.
